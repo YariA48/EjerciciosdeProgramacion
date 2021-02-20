@@ -1,0 +1,13 @@
+C:\Users\Yariza Alvarado\Desktop\PROGRAMA,5\bin\Debug\netcoreapp3.1\PROGRAMA,5.exe
+C:\Users\Yariza Alvarado\Desktop\PROGRAMA,5\bin\Debug\netcoreapp3.1\PROGRAMA,5.deps.json
+C:\Users\Yariza Alvarado\Desktop\PROGRAMA,5\bin\Debug\netcoreapp3.1\PROGRAMA,5.runtimeconfig.json
+C:\Users\Yariza Alvarado\Desktop\PROGRAMA,5\bin\Debug\netcoreapp3.1\PROGRAMA,5.runtimeconfig.dev.json
+C:\Users\Yariza Alvarado\Desktop\PROGRAMA,5\bin\Debug\netcoreapp3.1\PROGRAMA,5.dll
+C:\Users\Yariza Alvarado\Desktop\PROGRAMA,5\bin\Debug\netcoreapp3.1\PROGRAMA,5.pdb
+C:\Users\Yariza Alvarado\Desktop\PROGRAMA,5\obj\Debug\netcoreapp3.1\PROGRAMA,5.csprojAssemblyReference.cache
+C:\Users\Yariza Alvarado\Desktop\PROGRAMA,5\obj\Debug\netcoreapp3.1\PROGRAMA,5.AssemblyInfoInputs.cache
+C:\Users\Yariza Alvarado\Desktop\PROGRAMA,5\obj\Debug\netcoreapp3.1\PROGRAMA,5.AssemblyInfo.cs
+C:\Users\Yariza Alvarado\Desktop\PROGRAMA,5\obj\Debug\netcoreapp3.1\PROGRAMA,5.csproj.CoreCompileInputs.cache
+C:\Users\Yariza Alvarado\Desktop\PROGRAMA,5\obj\Debug\netcoreapp3.1\PROGRAMA,5.dll
+C:\Users\Yariza Alvarado\Desktop\PROGRAMA,5\obj\Debug\netcoreapp3.1\PROGRAMA,5.pdb
+C:\Users\Yariza Alvarado\Desktop\PROGRAMA,5\obj\Debug\netcoreapp3.1\PROGRAMA,5.genruntimeconfig.cache
